@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'xyz.bcal.flutter.easypermission'
+    namespace 'xyz.bczl.flutter.easy_permission'
     compileSdkVersion 30
 
     defaultConfig {
